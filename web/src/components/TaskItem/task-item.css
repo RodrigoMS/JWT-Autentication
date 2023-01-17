@@ -1,0 +1,12 @@
+.task-item {
+  display: flex;
+  width: 100%;
+}
+
+.task-item span {
+  font-size: 20pt;
+}
+
+.done {
+  text-decoration: line-through;
+}

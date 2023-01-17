@@ -1,0 +1,39 @@
+.account h1 {
+    text-align: center;
+    font-size: 25pt;
+}
+
+.account form {
+    display: flex;
+    flex-direction: column;
+}
+
+.account label {
+    margin-top: 10px;
+}
+
+.account input {
+    width: 18em;
+    margin: 10px 0px;
+    padding: 14px;
+    font-size: 14pt;
+    background-color: rgb(43, 43, 43);
+    border: none;
+    color: #fff;
+}
+
+.account button {
+    margin: 20px 0px;
+    padding: 14px;
+    font-size: 14pt;
+    color: #fff;
+}
+
+.account .links {
+    display: flex;
+    flex-direction: column;
+}
+
+.account .links a {
+    margin: 5px 0px;
+}

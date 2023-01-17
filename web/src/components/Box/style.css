@@ -1,0 +1,13 @@
+.box {
+  width: 100%;
+  height: 50vh;
+  color: black;
+}
+
+.dark {
+  background-color: rgb(182, 182, 182);
+}
+
+.light{
+  background-color: rgb(255, 255, 255);
+}

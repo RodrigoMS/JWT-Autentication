@@ -1,0 +1,39 @@
+.login h1 {
+    text-align: center;
+    font-size: 25pt;
+}
+
+.login form {
+    display: flex;
+    flex-direction: column;
+}
+
+.login label {
+    margin-top: 10px;
+}
+
+.login input {
+    width: 18em;
+    margin: 10px 0px;
+    padding: 14px;
+    font-size: 14pt;
+    background-color: rgb(43, 43, 43);
+    color: #fff;
+    border: none;
+}
+
+.login button {
+    margin: 20px 0px;
+    padding: 14px;
+    font-size: 14pt;
+    color: #fff;
+}
+
+.login .links {
+    display: flex;
+    flex-direction: column;
+}
+
+.login .links a {
+    margin: 5px 0px;
+}
